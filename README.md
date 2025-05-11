@@ -20,7 +20,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                 | Dificuldade |
 |---------|--------------------------------------------------------------------------------------|-------------|
-|     |        | Média       |
+|  1584   |  [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)        | Média       |
 |     |         | Difícil       |
 |     |        | Difícil       |
 |     |        | Média      |
@@ -31,6 +31,9 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
 
+*Questão 1584 - Min Cost to Connect All Points*
+
+![Questão 1584 - Min Cost to Connect All Points](Grafos2/Questao_1584/LC1584.png)
 
 ## Instalação 
 **Linguagem**: 
