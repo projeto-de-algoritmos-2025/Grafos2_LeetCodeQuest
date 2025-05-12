@@ -21,7 +21,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | Questão | Nome                                                                                 | Dificuldade |
 |---------|--------------------------------------------------------------------------------------|-------------|
 |  1584   |  [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)        | Média       |
-|     |         | Difícil       |
+|  1928   |  [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)       | Difícil       |
 |     |        | Difícil       |
 |     |        | Média      |
 
@@ -35,8 +35,12 @@ Segue abaixo Screenshots demonstrando que as soluções para os respectivos prob
 
 ![Questão 1584 - Min Cost to Connect All Points](Grafos2/Questao_1584/LC1584.png)
 
+*Questão 1928 - Minimum Cost to Reach Destination in Time*
+
+![Questão 1928 - Minimum Cost to Reach Destination in Time](Grafos2/Questao_1928/LC1928.png)
+
 ## Instalação 
-**Linguagem**: 
+**Linguagem**: Python, C
 <!-- Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários -->
 
 ### Uso 
