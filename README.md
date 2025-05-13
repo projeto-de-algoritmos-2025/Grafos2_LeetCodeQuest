@@ -29,6 +29,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | 547     | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                         | Média       |
 
 ### Link para o vídeo de apresentação
+https://drive.google.com/file/d/17wjS05-xamt1CH3tki070d7mFd2Aqb8r/view?usp=sharing
 
 ## Screenshots
 
